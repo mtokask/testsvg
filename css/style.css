@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html,
+body {
+  font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", "游明朝", "Yu Mincho", "游明朝体", "YuMincho", "ＭＳ Ｐ明朝", "MS PMincho", serif;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  display: block;
+  width: 160px;
+  height: auto;
+}
